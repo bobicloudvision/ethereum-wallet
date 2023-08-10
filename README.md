@@ -8,7 +8,7 @@ Ethereum wallet.
 # Install
 
 ```
-composer require web3p/ethereum-wallet
+composer require bobicloudvision/ethereum-wallet
 ```
 
 # Usage
