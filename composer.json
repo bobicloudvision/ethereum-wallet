@@ -1,5 +1,5 @@
 {
-    "name": "web3p/ethereum-wallet",
+    "name": "bobicloudvision/ethereum-wallet",
     "description": "Ethereum wallet library in PHP.",
     "type": "library",
     "license": "MIT",
@@ -24,7 +24,7 @@
     },
     "require": {
     	"PHP": "^7.1 | ^8.0",
-    	"web3p/ethereum-util": "^0.1",
-        "bitwasp/bitcoin": "^1.0"
+    	"web3p/ethereum-util": "*",
+        "bitwasp/bitcoin": "*"
     }
 }
